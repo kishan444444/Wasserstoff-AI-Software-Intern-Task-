@@ -1,0 +1,13 @@
+[2025-05-19 16:10:27,936] 211 sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+[2025-05-19 16:10:27,936] 219 sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+[2025-05-19 16:10:54,069] 202 pdfminer.pdfpage - WARNING - CropBox missing from /Page, defaulting to MediaBox
+[2025-05-19 16:10:54,072] 202 pdfminer.pdfpage - WARNING - CropBox missing from /Page, defaulting to MediaBox
+[2025-05-19 16:10:54,076] 202 pdfminer.pdfpage - WARNING - CropBox missing from /Page, defaulting to MediaBox
+[2025-05-19 16:10:55,953] 202 pdfminer.pdfpage - WARNING - CropBox missing from /Page, defaulting to MediaBox
+[2025-05-19 16:10:55,953] 202 pdfminer.pdfpage - WARNING - CropBox missing from /Page, defaulting to MediaBox
+[2025-05-19 16:10:55,981] 202 pdfminer.pdfpage - WARNING - CropBox missing from /Page, defaulting to MediaBox
+[2025-05-19 16:11:06,902] 66 root - INFO - Exception occured in load_object file utils
+[2025-05-19 16:11:06,902] 75 root - INFO - Exception occured in load_object file utils
+[2025-05-19 16:11:06,903] 132 root - INFO - Exception occured in load_object file utils
+[2025-05-19 16:11:06,903] 154 root - INFO - Exception occured in load_object file utils
+[2025-05-19 16:11:06,904] 113 root - INFO - Exception occured in load_object file utils

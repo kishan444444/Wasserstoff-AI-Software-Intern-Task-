@@ -1,0 +1,15 @@
+fastapi 
+uvicorn 
+pymongo 
+python-dotenv 
+pdfplumber 
+pytesseract 
+langchain 
+sentence-transformers 
+faiss-cpu 
+nltk 
+opencv-python
+python-multipart
+jinja2
+langchain-community
+langchain_groq

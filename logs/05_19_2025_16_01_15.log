@@ -1,0 +1,12 @@
+[2025-05-19 16:02:17,951] 211 sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+[2025-05-19 16:02:17,951] 219 sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+[2025-05-19 16:04:02,327] 66 root - INFO - Exception occured in load_object file utils
+[2025-05-19 16:04:02,328] 75 root - INFO - Exception occured in load_object file utils
+[2025-05-19 16:04:02,328] 132 root - INFO - Exception occured in load_object file utils
+[2025-05-19 16:04:02,328] 154 root - INFO - Exception occured in load_object file utils
+[2025-05-19 16:04:02,328] 113 root - INFO - Exception occured in load_object file utils
+[2025-05-19 16:05:36,363] 66 root - INFO - Exception occured in load_object file utils
+[2025-05-19 16:05:36,366] 75 root - INFO - Exception occured in load_object file utils
+[2025-05-19 16:05:36,366] 132 root - INFO - Exception occured in load_object file utils
+[2025-05-19 16:05:36,366] 154 root - INFO - Exception occured in load_object file utils
+[2025-05-19 16:05:36,366] 113 root - INFO - Exception occured in load_object file utils

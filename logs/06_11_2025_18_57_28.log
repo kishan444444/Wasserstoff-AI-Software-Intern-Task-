@@ -1,0 +1,4 @@
+[2025-06-11 18:57:46,501] 211 sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+[2025-06-11 18:57:46,501] 219 sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+[2025-06-11 18:57:46,537] 211 sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+[2025-06-11 18:57:46,537] 219 sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2

@@ -1,0 +1,54 @@
+[2025-05-24 16:35:24,985] 211 sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+[2025-05-24 16:35:24,985] 219 sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+[2025-05-24 16:36:24,623] 202 pdfminer.pdfpage - WARNING - CropBox missing from /Page, defaulting to MediaBox
+[2025-05-24 16:36:24,625] 202 pdfminer.pdfpage - WARNING - CropBox missing from /Page, defaulting to MediaBox
+[2025-05-24 16:36:24,627] 202 pdfminer.pdfpage - WARNING - CropBox missing from /Page, defaulting to MediaBox
+[2025-05-24 16:36:26,302] 202 pdfminer.pdfpage - WARNING - CropBox missing from /Page, defaulting to MediaBox
+[2025-05-24 16:36:26,303] 202 pdfminer.pdfpage - WARNING - CropBox missing from /Page, defaulting to MediaBox
+[2025-05-24 16:36:26,304] 202 pdfminer.pdfpage - WARNING - CropBox missing from /Page, defaulting to MediaBox
+[2025-05-24 16:36:26,349] 202 pdfminer.pdfpage - WARNING - CropBox missing from /Page, defaulting to MediaBox
+[2025-05-24 16:36:26,354] 202 pdfminer.pdfpage - WARNING - CropBox missing from /Page, defaulting to MediaBox
+[2025-05-24 16:36:26,357] 202 pdfminer.pdfpage - WARNING - CropBox missing from /Page, defaulting to MediaBox
+[2025-05-24 16:36:27,830] 202 pdfminer.pdfpage - WARNING - CropBox missing from /Page, defaulting to MediaBox
+[2025-05-24 16:36:27,830] 202 pdfminer.pdfpage - WARNING - CropBox missing from /Page, defaulting to MediaBox
+[2025-05-24 16:36:27,830] 202 pdfminer.pdfpage - WARNING - CropBox missing from /Page, defaulting to MediaBox
+[2025-05-24 16:36:27,856] 202 pdfminer.pdfpage - WARNING - CropBox missing from /Page, defaulting to MediaBox
+[2025-05-24 16:36:27,858] 202 pdfminer.pdfpage - WARNING - CropBox missing from /Page, defaulting to MediaBox
+[2025-05-24 16:36:27,860] 202 pdfminer.pdfpage - WARNING - CropBox missing from /Page, defaulting to MediaBox
+[2025-05-24 16:36:29,245] 202 pdfminer.pdfpage - WARNING - CropBox missing from /Page, defaulting to MediaBox
+[2025-05-24 16:36:29,245] 202 pdfminer.pdfpage - WARNING - CropBox missing from /Page, defaulting to MediaBox
+[2025-05-24 16:36:29,246] 202 pdfminer.pdfpage - WARNING - CropBox missing from /Page, defaulting to MediaBox
+[2025-05-24 16:36:29,281] 202 pdfminer.pdfpage - WARNING - CropBox missing from /Page, defaulting to MediaBox
+[2025-05-24 16:36:29,284] 202 pdfminer.pdfpage - WARNING - CropBox missing from /Page, defaulting to MediaBox
+[2025-05-24 16:36:29,837] 202 pdfminer.pdfpage - WARNING - CropBox missing from /Page, defaulting to MediaBox
+[2025-05-24 16:36:29,838] 202 pdfminer.pdfpage - WARNING - CropBox missing from /Page, defaulting to MediaBox
+[2025-05-24 16:37:24,485] 113 faiss.loader - INFO - Loading faiss with AVX512 support.
+[2025-05-24 16:37:24,485] 118 faiss.loader - INFO - Could not load library with AVX512 support due to:
+ModuleNotFoundError("No module named 'faiss.swigfaiss_avx512'")
+[2025-05-24 16:37:24,486] 125 faiss.loader - INFO - Loading faiss with AVX2 support.
+[2025-05-24 16:37:25,469] 127 faiss.loader - INFO - Successfully loaded faiss with AVX2 support.
+[2025-05-24 16:37:25,503] 186 faiss - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+[2025-05-24 16:37:27,097] 1025 httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-05-24 16:37:29,661] 1025 httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-05-24 16:37:31,736] 1025 httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-05-24 16:37:33,181] 1025 httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-05-24 16:37:34,708] 1025 httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-05-24 16:37:36,163] 1025 httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-05-24 16:37:37,519] 1025 httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-05-24 16:37:38,946] 1025 httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-05-24 16:37:39,911] 1025 httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-05-24 16:37:46,221] 1025 httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-05-24 16:37:47,042] 1025 httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-05-24 16:37:47,702] 1025 httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-05-24 16:37:49,486] 1025 httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-05-24 16:37:51,947] 1025 httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-05-24 16:37:53,875] 1025 httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-05-24 16:37:55,385] 1025 httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-05-24 16:37:56,880] 1025 httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-05-24 16:37:58,369] 1025 httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-05-24 16:38:00,145] 1025 httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-05-24 16:38:01,567] 1025 httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-05-24 16:38:02,456] 1025 httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-05-24 16:38:03,250] 1025 httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-05-24 16:38:04,010] 1025 httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-05-24 16:38:04,783] 1025 httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"

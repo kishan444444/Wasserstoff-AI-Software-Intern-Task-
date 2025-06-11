@@ -1,0 +1,18 @@
+[2025-06-11 18:38:46,021] 211 sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+[2025-06-11 18:38:46,022] 219 sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+[2025-06-11 18:39:40,187] 202 pdfminer.pdfpage - WARNING - CropBox missing from /Page, defaulting to MediaBox
+[2025-06-11 18:39:40,356] 202 pdfminer.pdfpage - WARNING - CropBox missing from /Page, defaulting to MediaBox
+[2025-06-11 18:54:08,195] 202 pdfminer.pdfpage - WARNING - CropBox missing from /Page, defaulting to MediaBox
+[2025-06-11 18:54:08,198] 202 pdfminer.pdfpage - WARNING - CropBox missing from /Page, defaulting to MediaBox
+[2025-06-11 18:54:08,202] 202 pdfminer.pdfpage - WARNING - CropBox missing from /Page, defaulting to MediaBox
+[2025-06-11 18:54:09,870] 202 pdfminer.pdfpage - WARNING - CropBox missing from /Page, defaulting to MediaBox
+[2025-06-11 18:54:09,871] 202 pdfminer.pdfpage - WARNING - CropBox missing from /Page, defaulting to MediaBox
+[2025-06-11 18:54:09,871] 202 pdfminer.pdfpage - WARNING - CropBox missing from /Page, defaulting to MediaBox
+[2025-06-11 18:54:16,067] 113 faiss.loader - INFO - Loading faiss with AVX512 support.
+[2025-06-11 18:54:16,068] 118 faiss.loader - INFO - Could not load library with AVX512 support due to:
+ModuleNotFoundError("No module named 'faiss.swigfaiss_avx512'")
+[2025-06-11 18:54:16,068] 125 faiss.loader - INFO - Loading faiss with AVX2 support.
+[2025-06-11 18:54:16,786] 127 faiss.loader - INFO - Successfully loaded faiss with AVX2 support.
+[2025-06-11 18:54:16,810] 186 faiss - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+[2025-06-11 18:54:18,375] 1025 httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-06-11 18:54:21,650] 1025 httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"

@@ -1,0 +1,18 @@
+[2025-06-11 19:02:37,552] 211 sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+[2025-06-11 19:02:37,552] 219 sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+[2025-06-11 19:02:37,580] 211 sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+[2025-06-11 19:02:37,580] 219 sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+[2025-06-11 19:04:28,652] 202 pdfminer.pdfpage - WARNING - CropBox missing from /Page, defaulting to MediaBox
+[2025-06-11 19:04:28,655] 202 pdfminer.pdfpage - WARNING - CropBox missing from /Page, defaulting to MediaBox
+[2025-06-11 19:04:28,661] 202 pdfminer.pdfpage - WARNING - CropBox missing from /Page, defaulting to MediaBox
+[2025-06-11 19:04:30,448] 202 pdfminer.pdfpage - WARNING - CropBox missing from /Page, defaulting to MediaBox
+[2025-06-11 19:04:30,448] 202 pdfminer.pdfpage - WARNING - CropBox missing from /Page, defaulting to MediaBox
+[2025-06-11 19:04:30,449] 202 pdfminer.pdfpage - WARNING - CropBox missing from /Page, defaulting to MediaBox
+[2025-06-11 19:04:35,739] 113 faiss.loader - INFO - Loading faiss with AVX512 support.
+[2025-06-11 19:04:35,740] 118 faiss.loader - INFO - Could not load library with AVX512 support due to:
+ModuleNotFoundError("No module named 'faiss.swigfaiss_avx512'")
+[2025-06-11 19:04:35,740] 125 faiss.loader - INFO - Loading faiss with AVX2 support.
+[2025-06-11 19:04:35,923] 127 faiss.loader - INFO - Successfully loaded faiss with AVX2 support.
+[2025-06-11 19:04:35,946] 186 faiss - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+[2025-06-11 19:04:37,186] 1025 httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-06-11 19:04:40,155] 1025 httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
